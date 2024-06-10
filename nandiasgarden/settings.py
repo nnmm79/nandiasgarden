@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #
     'pizza',
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
